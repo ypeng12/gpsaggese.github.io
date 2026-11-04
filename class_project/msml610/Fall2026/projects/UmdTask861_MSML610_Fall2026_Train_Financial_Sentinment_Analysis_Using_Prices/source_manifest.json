@@ -1,6 +1,6 @@
 {
   "source_repository": "https://github.com/ypeng12/Quant.ai",
-  "source_commit": "d4412c19849e04cce1a6f34af5dc973378b4bd7f",
+  "source_commit": "e37938863b73033006e1aa2c452742c56cd8fd30",
   "source_worktree_diff_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "course_issue": "https://github.com/gpsaggese/gpsaggese.github.io/issues/861",
   "branch": "UmdTask861_MSML610_Fall2026_Train_Financial_Sentinment_Analysis_Using_Prices",
@@ -9,6 +9,10 @@
     ".dockerignore": {
       "source": "research/financial_sentiment_using_prices/course/.dockerignore",
       "sha256": "bb7945d80d92d837359aeb0d3cfe94194f49fb378490cf971cde21fa7bb45d65"
+    },
+    ".gitattributes": {
+      "source": "research/financial_sentiment_using_prices/course/.gitattributes",
+      "sha256": "a4088ed45c099792f6b290183248fb3a09e55c20425f54c75b8ab4e284517e32"
     },
     ".gitignore": {
       "source": "research/financial_sentiment_using_prices/course/.gitignore",
